@@ -5,4 +5,4 @@ add .
 commint -m
 branch -M
 remote add origin 
-push -u main
+push -u origin main
