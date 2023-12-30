@@ -1,0 +1,1 @@
+uma pausa sempre pra beber um copo de agua todos os dias que eu for estudar
